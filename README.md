@@ -12,9 +12,11 @@
 
 ## Week 1: Speed & Mathematical Observation (1200–1400)
 Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate manipulation, and sorting logic.
+
+
 | Question | Level | Question Link | Ans. Link |
 | :--- | :--- | :--- | :--- |
-| 1520D - Same Differences | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1520D - Same Differences | Level | Question Link | Ans. Link |
 | 1324D - Pair of Topics | Level | Question Link | Ans. Link |
 | 1872C - Non-coprime Split | Level | Question Link | Ans. Link |
 | 1676G - White-Black Balanced Subtrees | Level | Question Link | Ans. Link |
