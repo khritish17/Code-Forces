@@ -16,9 +16,9 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 
 | Question | Level | Question Link | Ans. Link |
 | :--- | :--- | :--- | :--- |
-| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1520D - Same Differences | Level | Question Link | Ans. Link |
-| 1324D - Pair of Topics | Level | Question Link | Ans. Link |
-| 1872C - Non-coprime Split | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1520D - Same Differences | 1200 | [Question Link](https://codeforces.com/problemset/problem/1520/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d1ddf4aa0194979aa0ec44608e649b4a0ec583e7/Mock%20Question/same_difference_1520D.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1324D - Pair of Topics | 1400 | [Question Link](https://codeforces.com/problemset/problem/1324/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d1ddf4aa0194979aa0ec44608e649b4a0ec583e7/Mock%20Question/pair_of_topics_1324D.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1872C - Non-coprime Split | 1100 | [Question Link](https://codeforces.com/problemset/problem/1872/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d1ddf4aa0194979aa0ec44608e649b4a0ec583e7/Mock%20Question/non_coprime_split_1872C.py) |
 | 1676G - White-Black Balanced Subtrees | Level | Question Link | Ans. Link |
 | 1352E - Special Elements | Level | Question Link | Ans. Link |
 | 1490F - Equalize the Array | Level | Question Link | Ans. Link |
