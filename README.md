@@ -10,7 +10,7 @@
 | Cheap Travel | 1200 | [Link](https://github.com/khritish17/Code-Forces/blob/f9a83449d9989c7581a176f76d280285134bf211/Practice/Level%201200/cheap_travel.py) |
 | Chewbaсca and Number | 1200 | [Link](https://github.com/khritish17/Code-Forces/blob/f9a83449d9989c7581a176f76d280285134bf211/Practice/Level%201200/chewbacca_and_number.py) |
 
-## Week 1: Speed & Mathematical Observation (1200–1400)
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> Week 1: Speed & Mathematical Observation (1200–1400)
 Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate manipulation, and sorting logic.
 
 
@@ -27,15 +27,15 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1201C - Maximum Median | 1400 | [Question Link](https://codeforces.com/problemset/problem/1201/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/c4526dd76c16c2efc91b42d13c30955dafff72dc/Mock%20Question/maximum_median_1201C.py) |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1692E - Binary Deque | 1200 | [Question Link](https://codeforces.com/problemset/problem/1692/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/c4526dd76c16c2efc91b42d13c30955dafff72dc/Mock%20Question/binary_deque_1692E.py) |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1339B - Sorted Adjacent Differences | 1200 | [Question Link](https://codeforces.com/problemset/problem/1339/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/c4526dd76c16c2efc91b42d13c30955dafff72dc/Mock%20Question/sorted_adjacent_difference_1339B.py) |
-| 1343C - Alternating Subsequence | Level | Question Link | Ans. Link |
-| 489B - BerSU Ball | Level | Question Link | Ans. Link |
-| 1367C - Social Distance | Level | Question Link | Ans. Link |
-| 1133C - Balanced Team | Level | Question Link | Ans. Link |
-| 1619C - Wrong Addition | Level | Question Link | Ans. Link |
-| 1352G - Special Permutation | Level | Question Link | Ans. Link |
-| 1512D - Corrupted Array | Level | Question Link | Ans. Link |
-| 1703E - Mirror Grid | Level | Question Link | Ans. Link |
-| 1676H1 - Maximum Crossings (Easy Version) | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1343C - Alternating Subsequence | Level | [Question Link](https://codeforces.com/problemset/problem/1343/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/alternating_subsequences_1343C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 489B - BerSU Ball | Level | [Question Link](https://codeforces.com/problemset/problem/489/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/bersu_ball_489B.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1367C - Social Distance | Level | [Question Link](https://codeforces.com/problemset/problem/1367/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/social_distance_1367C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1133C - Balanced Team | Level | [Question Link](https://codeforces.com/problemset/problem/1133/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/balanced_team_1133c.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1619C - Wrong Addition | Level | [Question Link](https://codeforces.com/problemset/problem/1619/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/wrong_addition_1619C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1352G - Special Permutation | Level | [Question Link](https://codeforces.com/problemset/problem/1352/G) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/special_permutation_1352G.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1512D - Corrupted Array | Level | [Question Link](https://codeforces.com/problemset/problem/1512/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/corrupted_array_1512D.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1703E - Mirror Grid | 1200 | [Question Link](https://codeforces.com/problemset/problem/1703/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/mirror_grid_1703E.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" />1676H1 - Maximum Crossings (Easy Version) | 1400 | [Question Link](https://codeforces.com/problemset/problem/1676/H1) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/maximum_crossings_1676H1.py) |
 
 ## Week 2: The Thinking Gap (1400–1600)
 | Question | Level | Question Link | Ans. Link |
