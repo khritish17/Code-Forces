@@ -40,21 +40,21 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 ## Week 2: The Thinking Gap (1400–1600)
 | Question | Level | Question Link | Ans. Link |
 | :--- | :--- | :--- | :--- |
-| 1352C - K-th Not Divisible by n | Level | Question Link | Ans. Link |
-| 1538C - Number of Pairs | Level | Question Link | Ans. Link |
-| 1619E - MEX and Increments | Level | Question Link | Ans. Link |
-| 1201C - Maximum Median | Level | Question Link | Ans. Link |
-| 1475C - Ball in Berland | Level | Question Link | Ans. Link |
-| 1669F - Eating Queries | Level | Question Link | Ans. Link |
-| 1183C - Computer Game | Level | Question Link | Ans. Link |
-| 1370C - Number Game | Level | Question Link | Ans. Link |
-| 1624D - Palindromes Coloring | Level | Question Link | Ans. Link |
-| 1535C - Unstable String | Level | Question Link | Ans. Link |
-| 1669H - Maximal AND | Level | Question Link | Ans. Link |
-| 1426B - Symmetric Matrix | Level | Question Link | Ans. Link |
-| 1514B - AND 0, Sum Big | Level | Question Link | Ans. Link |
-| 1368B - Codeforces Subsequences | Level | Question Link | Ans. Link |
-| 1490G - Old Floppy Drive | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1352C - K-th Not Divisible by n | 1200 | [Question Link](https://codeforces.com/problemset/problem/1352/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/kth_not_divisible_by_n_1352C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1538C - Number of Pairs | 1300 | [Question Link](https://codeforces.com/problemset/problem/1538/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/number_of_pairs_1538C.py) |
+|<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1619E - MEX and Increments | 1700 | [Question Link](https://codeforces.com/problemset/problem/1619/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/MEX_and_increments_1619E.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1201C - Maximum Median | 1400 | [Question Link](https://codeforces.com/problemset/problem/1201/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/maximum_median_1201C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1475C - Ball in Berland | 1400 | [Question Link](https://codeforces.com/problemset/problem/1475/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/ball_in_berland_1475C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1669F - Eating Candies | 1100 | [Question Link](https://codeforces.com/problemset/problem/1669/F) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/eating_candies_1669F.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1183C - Computer Game | 1400 | [Question Link](https://codeforces.com/problemset/problem/1183/c) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/computer_game_1183C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1370C - Number Game | 1400 | [Question Link](https://codeforces.com/problemset/problem/1370/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/number_game_1370C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1624D - Palindromes Coloring | 1400 | [Question Link](https://codeforces.com/problemset/problem/1624/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/pallindromes_coloring_1624D.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1535C - Unstable String | 1400 | [Question Link](https://codeforces.com/problemset/problem/1535/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/unstable_string_1535C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1669H - Maximal AND | 1300 | [Question Link](https://codeforces.com/problemset/problem/1669/H) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/maximal_AND_1669H.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1426B - Symmetric Matrix | 900 | [Question Link](https://codeforces.com/problemset/problem/1426/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/symetric_matrix_1426B.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1514B - AND 0, Sum Big | 1200 | [Question Link](https://codeforces.com/problemset/problem/1514/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/AND_0_sum_big_1514B.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1368B - Codeforces Subsequences | 1500 | [Question Link](https://codeforces.com/problemset/problem/1368/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/codeforces_subsequences_1368B.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1490G - Old Floppy Drive | 1900 | [Question Link](https://codeforces.com/problemset/problem/1490/G) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/old_floppy_drive_1490G.py) |
 | 1614B - Divan and a New Project | Level | Question Link | Ans. Link |
 | 1559C - Mocha and Hiking | Level | Question Link | Ans. Link |
 | 1454D - Prime Factors Decompositions | Level | Question Link | Ans. Link |
