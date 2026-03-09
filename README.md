@@ -37,7 +37,7 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1703E - Mirror Grid | 1200 | [Question Link](https://codeforces.com/problemset/problem/1703/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/mirror_grid_1703E.py) |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" />1676H1 - Maximum Crossings (Easy Version) | 1400 | [Question Link](https://codeforces.com/problemset/problem/1676/H1) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/fa351af6b5b7582d736daf4e98ba6b5f37bbb366/Mock%20Question/maximum_crossings_1676H1.py) |
 
-## Week 2: The Thinking Gap (1400–1600)
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> Week 2: The Thinking Gap (1400–1600)
 | Question | Level | Question Link | Ans. Link |
 | :--- | :--- | :--- | :--- |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1352C - K-th Not Divisible by n | 1200 | [Question Link](https://codeforces.com/problemset/problem/1352/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/kth_not_divisible_by_n_1352C.py) |
@@ -55,11 +55,11 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1514B - AND 0, Sum Big | 1200 | [Question Link](https://codeforces.com/problemset/problem/1514/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/AND_0_sum_big_1514B.py) |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1368B - Codeforces Subsequences | 1500 | [Question Link](https://codeforces.com/problemset/problem/1368/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/codeforces_subsequences_1368B.py) |
 | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1490G - Old Floppy Drive | 1900 | [Question Link](https://codeforces.com/problemset/problem/1490/G) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/3666deca1406d5519e7c3ccf0033bfcbc1048387/Mock%20Question/old_floppy_drive_1490G.py) |
-| 1614B - Divan and a New Project | Level | Question Link | Ans. Link |
-| 1559C - Mocha and Hiking | Level | Question Link | Ans. Link |
-| 1454D - Prime Factors Decompositions | Level | Question Link | Ans. Link |
-| 1360E - Polygon | Level | Question Link | Ans. Link |
-| 1520E - Arranging Sheep | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1614B - Divan and a New Project | 1000 | [Question Link](https://codeforces.com/problemset/problem/1614/B) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d85fffda53bfc29e01b21b66829dccc2819ab740/Mock%20Question/divian_and_a_new_project_1614B.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1559C - Mocha and Hiking | 1200 | [Question Link](https://codeforces.com/problemset/problem/1559/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d85fffda53bfc29e01b21b66829dccc2819ab740/Mock%20Question/Mocha_and_hiking_1559C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1454D - Number into Sequence | 1300 | [Question Link](https://codeforces.com/problemset/problem/1454/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d85fffda53bfc29e01b21b66829dccc2819ab740/Mock%20Question/number_into_sequence_1454D.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1360E - Polygon | 1300 | [Question Link](https://codeforces.com/problemset/problem/1360/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d85fffda53bfc29e01b21b66829dccc2819ab740/Mock%20Question/polygon_1360E.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1520E - Arranging Sheep | 1400 | [Question Link](https://codeforces.com/problemset/problem/1520/E) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/d85fffda53bfc29e01b21b66829dccc2819ab740/Mock%20Question/arranging_the_sheep_1520E.py) |
 
 ## Week 3: Graphs, Trees & Dynamic Programming (1600–1800)
 | Question | Level | Question Link | Ans. Link |
