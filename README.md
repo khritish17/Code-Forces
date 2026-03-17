@@ -64,11 +64,11 @@ Goal: Solve Div. 2 A & B in under 15 minutes. Mastery of prefix sums, coordinate
 ## Week 3: Graphs, Trees & Dynamic Programming (1600–1800)
 | Question | Level | Question Link | Ans. Link |
 | :--- | :--- | :--- | :--- |
-| 580C - Kefa and Park | Level | Question Link | Ans. Link |
-| 115A - Party | Level | Question Link | Ans. Link |
-| 1328E - Tree Queries | Level | Question Link | Ans. Link |
-| 1144F - Graph Without Long Directed Paths | Level | Question Link | Ans. Link |
-| 161D - Distance in Tree (Tree DP) | Level | Question Link | Ans. Link |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 580C - Kefa and Park | 1500 | [Question Link](https://codeforces.com/problemset/problem/580/C) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/kefa_and_park_580C.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 115A - Party | 900 | [Question Link](https://codeforces.com/problemset/problem/115/A) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/party_115A.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1328E - Tree Queries | 1900 | [Question Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/tree_queries_1328E.py) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/tree_queries_1328E.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 1144F - Graph Without Long Directed Paths | 1700 | [Question Link](https://codeforces.com/problemset/problem/1144/F) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/graph_without_long_directed_paths_1144F.py) |
+| <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4a4f421b-9035-42af-8c03-b67e54bb1075" /> 161D - Distance in Tree (Tree DP) | 1800 | [Question Link](https://codeforces.com/problemset/problem/161/D) | [Ans. Link](https://github.com/khritish17/Code-Forces/blob/0900eda1cdf1f430b84c5aa3e4a173b7e97500b0/Mock%20Question/distance_in_tree_161D.py) |
 | 1676G - White-Black Balanced Subtrees | Level | Question Link | Ans. Link |
 | 1669G - Fall Down | Level | Question Link | Ans. Link |
 | 1294C - Product of Three Numbers | Level | Question Link | Ans. Link |
